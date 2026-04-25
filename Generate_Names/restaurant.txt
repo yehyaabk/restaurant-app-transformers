@@ -1,0 +1,153 @@
+Style: funny | Cuisine: American | Ingredients: beef, bun, cheese | Name: The Big Moo-d Burger
+Style: funny | Cuisine: American | Ingredients: chicken, batter, spices | Name: Cluck Norris Nuggets
+Style: funny | Cuisine: American | Ingredients: bacon, lettuce, tomato | Name: BLT Me Explain
+Style: funny | Cuisine: American | Ingredients: mac, cheese, cream | Name: Mac Daddy Deluxe
+Style: funny | Cuisine: American | Ingredients: ribs, bbq sauce, spices | Name: Rib Tickler Supreme
+Style: funny | Cuisine: American | Ingredients: shrimp, butter, garlic | Name: Shrimply the Best
+Style: funny | Cuisine: American | Ingredients: potatoes, oil, salt | Name: Fry Hard
+Style: funny | Cuisine: American | Ingredients: hot dog, bun, mustard | Name: Hot Doggity Boom
+Style: funny | Cuisine: American | Ingredients: pancake, syrup, butter | Name: Stack Overflow Breakfast
+Style: funny | Cuisine: American | Ingredients: waffle, syrup, cream | Name: Waffle Me Crazy
+Style: funny | Cuisine: American | Ingredients: steak, pepper, butter | Name: Steak Me Home Tonight
+Style: funny | Cuisine: American | Ingredients: chicken, waffle, syrup | Name: Cluck & Waffle Remix
+Style: funny | Cuisine: American | Ingredients: turkey, bread, mayo | Name: Gobble Till You Wobble
+Style: funny | Cuisine: American | Ingredients: fish, batter, fries | Name: Fish You Were Here
+Style: funny | Cuisine: American | Ingredients: cheese, dough, tomato | Name: Cheesy Rider Pizza
+Style: funny | Cuisine: American | Ingredients: ice cream, chocolate, nuts | Name: Sundae Driver
+Style: funny | Cuisine: American | Ingredients: apple, cinnamon, sugar | Name: Apple Bottom Pie
+Style: funny | Cuisine: American | Ingredients: milk, ice cream, syrup | Name: Shake It Like a Polaroid
+Style: funny | Cuisine: American | Ingredients: corn, butter, salt | Name: Corn Stars Delight
+Style: funny | Cuisine: American | Ingredients: beef, bbq sauce, onion | Name: BBQlieve It or Not Burger
+Style: funny | Cuisine: American | Ingredients: chicken, spices, oil | Name: Fry Another Day Chicken
+Style: funny | Cuisine: American | Ingredients: eggs, bacon, toast | Name: Eggs-tra Special Breakfast
+Style: funny | Cuisine: American | Ingredients: cheese, bread, butter | Name: Grilled Cheese Please
+Style: funny | Cuisine: American | Ingredients: sausage, bun, ketchup | Name: Sausage Party Roll
+Style: funny | Cuisine: American | Ingredients: beef, tortilla, cheese | Name: Taco Bout Delicious
+Style: funny | Cuisine: American | Ingredients: chicken, tortilla, salsa | Name: Wrap It Like It’s Hot
+Style: funny | Cuisine: American | Ingredients: lettuce, tomato, dressing | Name: Salad Days Forever
+Style: funny | Cuisine: American | Ingredients: chocolate, flour, sugar | Name: Brownie Points Earned
+Style: funny | Cuisine: American | Ingredients: vanilla, milk, sugar | Name: Vanilla Thrilla Shake
+Style: funny | Cuisine: American | Ingredients: beef, onion, bun | Name: Onion Ring King Burger
+Style: funny | Cuisine: American | Ingredients: fries, cheese, gravy | Name: Poutine It Mildly
+Style: funny | Cuisine: American | Ingredients: chili, beans, beef | Name: Chili Today Hot Tamale
+Style: funny | Cuisine: American | Ingredients: pizza dough, cheese, pepperoni | Name: Slice Slice Baby
+Style: funny | Cuisine: American | Ingredients: chicken, buffalo sauce | Name: Buffalo Soldier Wings
+Style: funny | Cuisine: American | Ingredients: beef, cheese, jalapeno | Name: Jalapeño Business Burger
+Style: funny | Cuisine: American | Ingredients: donuts, sugar, glaze | Name: Donut Stop Believin'
+Style: funny | Cuisine: American | Ingredients: bagel, cream cheese | Name: Bagel Me Maybe
+Style: funny | Cuisine: American | Ingredients: coffee, milk, sugar | Name: Brew-tiful Morning
+Style: funny | Cuisine: American | Ingredients: lobster, butter | Name: Lobster Roll Model
+Style: funny | Cuisine: American | Ingredients: chicken, parmesan, tomato | Name: Parmageddon Chicken
+Style: funny | Cuisine: American | Ingredients: beef, mushroom, sauce | Name: Mushroom for Improvement
+Style: funny | Cuisine: American | Ingredients: fries, chili, cheese | Name: Chili Cheese Thrill
+Style: funny | Cuisine: American | Ingredients: eggs, cheese, tortilla | Name: Egg-cellent Burrito
+Style: funny | Cuisine: American | Ingredients: bacon, egg, muffin | Name: Muffin Compares 2 U
+Style: funny | Cuisine: American | Ingredients: milk, cookies | Name: Milk & Cookie Monster
+Style: funny | Cuisine: American | Ingredients: caramel, popcorn | Name: Popcorn Identity
+Style: funny | Cuisine: American | Ingredients: steak, garlic, butter | Name: Garlic You Serious Steak
+Style: funny | Cuisine: American | Ingredients: chicken, honey, mustard | Name: Honey I Fried the Chicken
+Style: funny | Cuisine: American | Ingredients: ribs, honey, bbq | Name: Honey Rib Republic
+Style: funny | Cuisine: American | Ingredients: fish, lemon, herbs | Name: Holy Mackerel Dish
+Style: funny | Cuisine: American | Ingredients: turkey, gravy | Name: Turkeynado Feast
+Style: funny | Cuisine: American | Ingredients: waffles, berries | Name: Berry Waffle Good
+Style: funny | Cuisine: American | Ingredients: brownie, ice cream | Name: Brownie After Party
+Style: funny | Cuisine: American | Ingredients: sandwich, beef, cheese | Name: Sandwich Unchained
+Style: funny | Cuisine: American | Ingredients: chicken, ranch, fries | Name: Ranch Me Outside Combo
+Style: funny | Cuisine: American | Ingredients: beef, cheese, bacon | Name: Bacon Me Crazy Burger
+Style: funny | Cuisine: American | Ingredients: shrimp, fries | Name: Shrimp Happens Plate
+Style: funny | Cuisine: American | Ingredients: pancakes, chocolate | Name: Choco Stack Attack
+Style: funny | Cuisine: American | Ingredients: steak, fries | Name: Steak & Shake It Up
+Style: funny | Cuisine: American | Ingredients: pasta, cheese | Name: Pasta La Vista Baby
+Style: funny | Cuisine: American | Ingredients: burger, onion, cheese | Name: Burger She Wrote
+Style: funny | Cuisine: American | Ingredients: fries, ketchup | Name: Ketchup & Release
+Style: funny | Cuisine: American | Ingredients: chicken, bbq sauce | Name: BBQ You Later Chicken
+Style: funny | Cuisine: American | Ingredients: dessert, chocolate | Name: Chocolate Therapy Session
+Style: funny | Cuisine: American | Ingredients: apple, pie | Name: American Pie Hard
+Style: funny | Cuisine: American | Ingredients: ribs, sauce | Name: Rib-olution Feast
+Style: funny | Cuisine: American | Ingredients: hotdog, chili | Name: Chili Dog Millionaire
+Style: funny | Cuisine: American | Ingredients: burger, lettuce | Name: Lettuce Meat Again
+Style: funny | Cuisine: American | Ingredients: eggs, bacon | Name: Bacon & Eggspectations
+Style: funny | Cuisine: American | Ingredients: milkshake, oreo | Name: Oreo Speedwagon Shake
+Style: funny | Cuisine: American | Ingredients: fries, cheese | Name: Cheese the Day Fries
+Style: funny | Cuisine: American | Ingredients: chicken, spice | Name: Spice Spice Baby Chicken
+Style: funny | Cuisine: American | Ingredients: beef, sauce | Name: Saucy Situation Burger
+Style: funny | Cuisine: American | Ingredients: waffles, syrup | Name: Syrup-ise Attack
+Style: funny | Cuisine: American | Ingredients: pizza, cheese | Name: Pizza My Heart
+Style: funny | Cuisine: American | Ingredients: steak, butter | Name: Butter Late Than Never Steak
+Style: funny | Cuisine: American | Ingredients: chicken, lemon | Name: Lemonade Fried Chicken
+Style: funny | Cuisine: American | Ingredients: sandwich, turkey | Name: Turkey and the Beast
+Style: funny | Cuisine: American | Ingredients: fish, fries | Name: Fryday Night Fish
+Style: funny | Cuisine: American | Ingredients: burger, cheese | Name: Say Cheese Burger
+Style: funny | Cuisine: American | Ingredients: ribs, spice | Name: Rib Rage Mode
+Style: funny | Cuisine: American | Ingredients: pancakes, syrup | Name: Syrup & Destroy
+Style: funny | Cuisine: American | Ingredients: donuts, chocolate | Name: Choco Donut Disturb
+Style: funny | Cuisine: American | Ingredients: shake, strawberry | Name: Berry Shake Spears
+Style: funny | Cuisine: American | Ingredients: fries, bacon | Name: Baconator Fries Reloaded
+Style: funny | Cuisine: American | Ingredients: burger, bacon | Name: Bacon & Furious Burger
+Style: funny | Cuisine: American | Ingredients: steak, pepper | Name: Pepper Me Tender Steak
+Style: funny | Cuisine: American | Ingredients: chicken, sauce | Name: Sauce Boss Chicken
+Style: funny | Cuisine: American | Ingredients: pizza, pepperoni | Name: Pepperoni Express
+Style: funny | Cuisine: American | Ingredients: fries, salt | Name: Salt Bae Fries
+Style: funny | Cuisine: American | Ingredients: ribs, honey | Name: Honey Ribzilla
+Style: funny | Cuisine: American | Ingredients: burger, onion | Name: Onion Impossible Burger
+Style: funny | Cuisine: American | Ingredients: chicken, cheese | Name: Cheesy Clucker Deluxe
+Style: funny | Cuisine: American | Ingredients: shake, vanilla | Name: Vanilla Ice Ice Baby
+Style: funny | Cuisine: American | Ingredients: brownie, fudge | Name: Fudge Yeah Brownie
+Style: funny | Cuisine: American | Ingredients: waffle, honey | Name: Honey Waffle Hustle
+Style: funny | Cuisine: American | Ingredients: burger, lettuce | Name: Lettuce Pray Burger
+Style: funny | Cuisine: American | Ingredients: fries, bbq | Name: BBQ Fries Before Guys
+Style: funny | Cuisine: American | Ingredients: sandwich, cheese | Name: Cheesy Come Cheesy Go
+Style: funny | Cuisine: American | Ingredients: steak, garlic | Name: Garlic Reloaded Steak
+Style: funny | Cuisine: American | Ingredients: chicken, herbs | Name: Herb Your Enthusiasm Chicken
+Style: funny | Cuisine: American | Ingredients: donut, glaze | Name: Glazed and Confused
+Style: funny | Cuisine: American | Ingredients: burger, sauce | Name: Sauce Me Maybe Burger
+Style: funny | Cuisine: American | Ingredients: ribs, bbq | Name: BBQ Legends Never Die
+Style: funny | Cuisine: American | Ingredients: fries, chili | Name: Chili Fries of Destiny
+Style: funny | Cuisine: American | Ingredients: pancake, berry | Name: Berry Pancake Empire
+Style: funny | Cuisine: American | Ingredients: burger, double cheese | Name: Double Trouble Burger
+Style: funny | Cuisine: American | Ingredients: shake, chocolate | Name: Chocolate Shake Down
+Style: funny | Cuisine: American | Ingredients: steak, onion | Name: Onion Knight Steak
+Style: funny | Cuisine: American | Ingredients: chicken, spice | Name: Spice Invaders Chicken
+Style: funny | Cuisine: American | Ingredients: pizza, sausage | Name: Sausage Party Pizza
+Style: funny | Cuisine: American | Ingredients: fries, truffle | Name: Truffle Shuffle Fries
+Style: funny | Cuisine: American | Ingredients: burger, egg | Name: Egg-cellent Burger Boss
+Style: funny | Cuisine: American | Ingredients: ribs, pepper | Name: Pepper Ribstorm
+Style: funny | Cuisine: American | Ingredients: waffle, chocolate | Name: Chocolate Waffle Warfare
+Style: funny | Cuisine: American | Ingredients: sandwich, bacon | Name: Bacon & Bread Affair
+Style: funny | Cuisine: American | Ingredients: donut, sugar | Name: Sugar Rush Donut Squad
+Style: funny | Cuisine: American | Ingredients: chicken, honey | Name: Honey Cluckers Unite
+Style: funny | Cuisine: American | Ingredients: steak, butter | Name: Butterstorm Steakhouse
+Style: funny | Cuisine: American | Ingredients: burger, jalapeno | Name: Jalapeño Inferno Burger
+Style: funny | Cuisine: American | Ingredients: fries, garlic | Name: Garlic Fry-nado
+Style: funny | Cuisine: American | Ingredients: pancake, maple | Name: Maple Madness Stack
+Style: funny | Cuisine: American | Ingredients: ribs, sauce | Name: Saucezilla Ribs
+Style: funny | Cuisine: American | Ingredients: pizza, cheese | Name: Cheesequake Pizza
+Style: funny | Cuisine: American | Ingredients: chicken, bbq | Name: BBQ Chicken Overdrive
+Style: funny | Cuisine: American | Ingredients: burger, bacon | Name: Baconocalypse Burger
+Style: funny | Cuisine: American | Ingredients: shake, banana | Name: Banana Shake Split
+Style: funny | Cuisine: American | Ingredients: fries, cheese | Name: Cheesy Fryday Night
+Style: funny | Cuisine: American | Ingredients: steak, spice | Name: Spicy Steak Showdown
+Style: funny | Cuisine: American | Ingredients: waffle, berry | Name: Berry Waffle Kingdom
+Style: funny | Cuisine: American | Ingredients: sandwich, beef | Name: Beef Between the Lines
+Style: funny | Cuisine: American | Ingredients: donut, chocolate | Name: Chocolate Donut Dynasty
+Style: funny | Cuisine: American | Ingredients: chicken, lemon | Name: Lemon Chicken Legend
+Style: funny | Cuisine: American | Ingredients: burger, onion | Name: Onion Ring Rumble Burger
+Style: funny | Cuisine: American | Ingredients: fries, pepper | Name: Pepper Fry Explosion
+Style: funny | Cuisine: American | Ingredients: ribs, honey | Name: Honey Rib Riot
+Style: funny | Cuisine: American | Ingredients: pizza, mushroom | Name: Mushroom Kingdom Pizza
+Style: funny | Cuisine: American | Ingredients: steak, garlic | Name: Garlic Steak Symphony
+Style: funny | Cuisine: American | Ingredients: shake, strawberry | Name: Strawberry Shake Storm
+Style: funny | Cuisine: American | Ingredients: burger, cheese | Name: Cheese Burger Universe
+Style: funny | Cuisine: American | Ingredients: fries, truffle | Name: Truffle Fry Fever
+Style: funny | Cuisine: American | Ingredients: chicken, spice | Name: Spice Chicken Chaos
+Style: funny | Cuisine: American | Ingredients: donut, glaze | Name: Glaze of Glory
+Style: funny | Cuisine: American | Ingredients: sandwich, turkey | Name: Turkey Sandwich Saga
+Style: funny | Cuisine: American | Ingredients: ribs, bbq | Name: BBQ Rib Kingdom
+Style: funny | Cuisine: American | Ingredients: pancake, chocolate | Name: Chocolate Pancake Dream
+Style: funny | Cuisine: American | Ingredients: burger, bacon | Name: Bacon Burger Odyssey
+Style: funny | Cuisine: American | Ingredients: fries, garlic | Name: Garlic Fry Galaxy
+Style: funny | Cuisine: American | Ingredients: steak, butter | Name: Butter Steak Empire
+Style: funny | Cuisine: American | Ingredients: chicken, herbs | Name: Herb Chicken Chronicles
+Style: funny | Cuisine: American | Ingredients: pizza, pepperoni | Name: Pepperoni Planet
+Style: funny | Cuisine: American | Ingredients: shake, vanilla | Name: Vanilla Shake Voyage
+Style: funny | Cuisine: American | Ingredients: donut, sugar | Name: Sugar Donut Storm
