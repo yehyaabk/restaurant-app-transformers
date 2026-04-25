@@ -2,3 +2,8 @@
 results/
 checkpoint*/
 *.pt
+**/results/
+**/checkpoint*/
+*.pt
+*.bin
+*.safetensors
